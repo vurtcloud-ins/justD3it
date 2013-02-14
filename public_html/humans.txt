@@ -1,0 +1,16 @@
+# www.vurtcloud.con
+# #################### #
+
+# TEAM
+
+    Rahul Kumar -- Admin & Developer 
+    Twitter -- @rahulmir007
+    Facebook -- rahulmir007
+    Contact  -- rahulmir007@gmail.com
+    From    -- Bangalore, India
+
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr, bootstrap
